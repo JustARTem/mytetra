@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mytetradoc>
 <root>
- <format version="1" subversion="1" />
+ <format version="1" subversion="2"/>
  <content>
-  <node id="1300000000aaaaaaaaa1" name="Rename me" >
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
    <recordtable>
-    <record dir="1300000000aaaaaaaaa2" url="" tags="MyTetra, Qt" author="" ctime="20081210124656" id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" file="text.html" />
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
    </recordtable>
+  </node>
+  <node crypt="1" icon="" id="1502741655ufh4rq2bph" name="UkM1U0lNUAMo3WVLzZhxpu2GGO33FMUSDq6Ze6nI5J+iTn6P/1pe+7nWM4CjORLK">
+   <node crypt="1" icon="" id="1502741696kg8fvhyfng" name="UkM1U0lNUAOFeqDMYnwMdqlDBDuQ5oQCDYvLLMxhVtmj+SBzv7uNFcKNyc64Rivj">
+    <recordtable>
+     <record id="1502741715m8wlhv5new" name="UkM1U0lNUANisMR+oq/OkRuu5xplYcpchKlVX+yZF/ZcU+w2brIcmhHAkhXVmXaAcilMIzsstCs4U3hOWfoSiuaiptVqLM8L" author="" url="" tags="" ctime="20170814231515" dir="15027417156smwdhmrox" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1502741873m8hafazhe4" name="UkM1U0lNUAO1nASfxCZ/KN4FLhZLs06UzypyIpP1mi7MVMy6VxQ5jp9B0gOiaXqS">
+    <recordtable>
+     <record id="1502742043xc5cf09c2x" name="UkM1U0lNUAN3YBnBwJCq6MA1FsCSCgVPDYl2IVxtkCQYGGkdnX44sGfptWp7bW6hzMheUxyfEB7zc5E0JsaLsVU+O5yBX+1jphHCIdBagsM=" author="" url="UkM1U0lNUAN+ggJNu3J2X9IfzZQQKKGR+3kdihQg9Vj5mjD9fqohe4MS1dKOvBv1Ghw/HLa9ggO4vsijeIcuV41X/ac5uwCj" tags="" ctime="20170814232043" dir="1502742043ttxr5kuwj6" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
