@@ -3,7 +3,7 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="1" icon="" id="1502741655ufh4rq2bph" name="UkM1U0lNUAMo3WVLzZhxpu2GGO33FMUSDq6Ze6nI5J+iTn6P/1pe+7nWM4CjORLK">
+  <node crypt="1" icon="UkM1U0lNUANM4wBzaYRph0LdSzPrhnGB8Qxm4XRA218aEg/QEfOl2V5WOYt1S+X3rXLm8UIl8/xPPDxx36rdmSrDkLSRs0fuJuSSUKr4+4c=" id="1502741655ufh4rq2bph" name="UkM1U0lNUAMo3WVLzZhxpu2GGO33FMUSDq6Ze6nI5J+iTn6P/1pe+7nWM4CjORLK">
    <node crypt="1" icon="" id="1502741696kg8fvhyfng" name="UkM1U0lNUAOFeqDMYnwMdqlDBDuQ5oQCDYvLLMxhVtmj+SBzv7uNFcKNyc64Rivj">
     <recordtable>
      <record id="1502741715m8wlhv5new" name="UkM1U0lNUANisMR+oq/OkRuu5xplYcpchKlVX+yZF/ZcU+w2brIcmhHAkhXVmXaAcilMIzsstCs4U3hOWfoSiuaiptVqLM8L" author="" url="" tags="" ctime="20170814231515" dir="15027417156smwdhmrox" file="text.html" crypt="1"/>
@@ -15,7 +15,7 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="1" icon="" id="15027453147caivey0j1" name="UkM1U0lNUAOfYIxvhyj2K8KVnWANtnJTZuHcOSDimnk9E9vp3D1Q1JpDdD8g54nv68lN35QK1qU=">
+  <node crypt="1" icon="UkM1U0lNUAPJCOQ8X6BKuBeMBoLzdwJ+5YhNkkhzd1CUo0GV6u9Fa2U64YSarnsq+MSJv3IB30lI+lDa0rRQX17PnWlI6Hvx" id="15027453147caivey0j1" name="UkM1U0lNUAOfYIxvhyj2K8KVnWANtnJTZuHcOSDimnk9E9vp3D1Q1JpDdD8g54nv68lN35QK1qU=">
    <node crypt="1" icon="" id="1502745373ucv59s4100" name="UkM1U0lNUANavMzn4IeQbR//DmuX2vnNvzGzoQaEaLvUsJGxmUC0dkPf0kAGPHqT7zX46Y3ZIWIruoVd/wU2SigJzBXPJn6/XVPYV/hdTCedWR3vlYsKKlfkIk0jh9KJNMjiF4mitPLfEmwBqbOo6+j3wLrcN19JICl12tjuefi68ue73aBqI7emCJ844mt8d+RDaGbP+lYHxeTLu20ZuKHmp2eL1yy4EWP9LvZUJzk=">
     <recordtable>
      <record id="15027454085id8adfliz" name="UkM1U0lNUAOOWnmGUoPj1PNS2S1rQX0B4vV793SPnBxHdQJi/u5hbZnjEajDAGkM" author="" url="" tags="" ctime="20170815001648" dir="15027454086wv6n3rdiy" file="text.html" crypt="1"/>
@@ -64,9 +64,9 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="1502784873id6n51fscq" name="Разобрать! ))">
+  <node crypt="" icon="/Swift/color_swift_Apple.svg" id="1502784873id6n51fscq" name="Разобрать! ))">
    <recordtable>
-    <record id="1502784924v5bmhircwr" name="MyTetra - Настройка синхронизации через GIT" author="" url="" tags="" ctime="20170815111524" dir="15027849240ju7qp2sy4" file="text.html"/>
+    <record id="1502784924v5bmhircwr" name="MyTetra - Настройка синхронизации через GIT" author="" url="" tags="git, mytetra, заметки, " ctime="20170815111524" dir="15027849240ju7qp2sy4" file="text.html"/>
    </recordtable>
   </node>
  </content>
